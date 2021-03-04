@@ -10,13 +10,7 @@ canvas {
   margin-top: 25px;
   z-index: 10;
 }
-.title{
-  display: flex;
-  margin: 0;
-  padding: 20px;
-  font-family: fantasy;
-  justify-content: center;
-}
+
 .game-over-container {
   position: absolute;
   top: 50%;
